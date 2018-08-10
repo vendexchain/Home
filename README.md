@@ -46,7 +46,7 @@
                     <div class="main-menu text-center">
                         <nav>
                             <ul id="slick-nav">
-                                <li><a class="scroll" href="#home">home</a>
+                                <li><a class="scroll" href="https://vendexchain.github.io/Home/">home</a>
                                     <ul>
                                         <li><a href="index.html">Version 1</a></li>
                                         <li><a href="index2.html">Version 2</a></li>
